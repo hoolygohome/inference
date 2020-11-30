@@ -2,4 +2,5 @@
 simple inference code
 
 # some update
-... asdef
+git remote -v
+git remote set-url origin git@github.com:hoolygohome/inference.git
