@@ -1,0 +1,38 @@
+https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
+--- https://github.com/rbonghi/jetson_stats
+https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b
+https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2850
+https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/
+https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
+http://www.dangminhthang.com/computer-vision/object-detection-and-recognition-using-yolo/
+https://pjreddie.com/darknet/yolo/
+
+https://stackoverflow.com/questions/61095996/how-to-deal-with-dnn-module-was-not-built-with-cuda-backend-switching-to-cpu
+
+https://medium.com/@bnarasapur/compile-opencv-with-cuda-from-the-source-1b98e9108a59
+https://medium.com/@bnarasapur/compile-opencv-with-cuda-from-the-source-1b98e9108a59
+
+---
+https://www.pyimagesearch.com/2020/03/25/how-to-configure-your-nvidia-jetson-nano-for-computer-vision-and-deep-learning/
+
+https://medium.com/@mhfateen/build-opencv-4-4-0-with-cuda-gpu-support-on-windows-10-without-tears-aa85d470bcd0
+
+---
+sudo su 
+echo 64 > /sys/devices/pwm-fan/target_pwm
+echo 255 > /sys/devices/pwm-fan/target_pwm
+echo 48 > /sys/devices/pwm-fan/target_pwm
+https://gist.github.com/YashasSamaga/e2b19a6807a13046e399f4bc3cca3a49
+---
+https://github.com/dusty-nv/jetson-inference
+https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
+
+--- https://www.insecam.org/en/byrating/?page=31
+http://208.72.70.172/mjpg/video.mjpg
+
+http://72.174.121.69:2000/mjpg/video.mjpg
+
+http://109.236.111.203/mjpg/video.mjpg
+---
+rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
+
