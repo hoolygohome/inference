@@ -2,7 +2,7 @@
 simple inference code
 
 # some update
-ssh-keygen -t rsa -b 4096 -C "hoolygohome@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "some_user_email@email_provider.com"
 \
 git remote -v
 \
